@@ -1,0 +1,78 @@
+@font-face {
+	font-family:'BPG Nino Mtavruli';
+	src:url('../css/fonts/bpg-nino-mtavruli-webfont.eot');
+	src:url('../css/fonts/bpg-nino-mtavruli-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../css/fonts/bpg-nino-mtavruli-webfont.woff2') format('woff2'), 
+	url('../css/fonts/bpg-nino-mtavruli-webfont.woff') format('woff'),
+	url('../css/fonts/bpg-nino-mtavruli-webfont.ttf') format('truetype'),
+	url('../css/fonts/bpg-nino-mtavruli-webfont.svg#bpg_nino_mtavruliregular') format('svg'); }
+@font-face {
+	font-family:'BPG Nino Mtavruli Bold';
+	src:url('../css/fonts/bpg-nino-mtavruli-bold-webfont.eot');
+	src:url('../css/fonts/bpg-nino-mtavruli-bold-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../css/fonts/bpg-nino-mtavruli-bold-webfont.woff2') format('woff2'),
+	url('../css/fonts/bpg-nino-mtavruli-bold-webfont.woff') format('woff'),
+	url('../css/fonts/bpg-nino-mtavruli-bold-webfont.ttf') format('truetype'),
+	url('../css/fonts/bpg-nino-mtavruli-bold-webfont.svg#bpg_nino_mtavrulibold') format('svg'); 
+}
+@font-face {
+	font-family:'BPG Arial';
+	src:url('../css/fonts/bpg-arial-webfont.eot');
+	src:url('../css/fonts/bpg-arial-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../css/fonts/bpg-arial-webfont.woff2') format('woff2'),
+	url('../css/fonts/bpg-arial-webfont.woff') format('woff'),
+	url('../css/fonts/bpg-arial-webfont.ttf') format('truetype'),
+	url('../css/fonts/bpg-arial-webfont.svg#bpg_nino_mtavrulibold') format('svg'); 
+}
+@font-face {
+	font-family:'BPG ESM';
+	src:url('../css/fonts/BPG_ExtraSquare_Mtavruli.ttf') format('truetype');
+}
+@font-face {
+	font-family:'BPG BESM';
+	src:url('../css/fonts/bpg_square_banner_caps_2013.ttf') format('truetype');
+}
+@font-face {
+	font-family:'BPG bpgBes';
+	src:url('../css/fonts/bpg_banner_extrasquare.ttf') format('truetype');
+}
+@font-face {
+	font-family:'BPG BBSC';
+	src:url('../css/fonts/bpg_banner_supersquare_caps.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'BPG Arial Caps';
+    src: url('../fonts/bpg-arial-caps-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-arial-caps-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-arial-caps-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-arial-caps-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-arial-caps-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-arial-caps-webfont.svg#bpg_arial_capsregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+	font-family:'geozaza';
+	src:url('../css/fonts/geozaza.ttf') format('truetype');
+}
+@font-face {
+    font-family:BPG_Arial;
+    src: url(../../public/css/fonts/BPG_Arial.ttf);
+    font-weight : 900;
+}
+@font-face {
+    font-family:BPG_GEL_DejaVuSans_Caps;
+    src: url(../../public/css/fonts/BPG_GEL_DejaVuSans_Caps.ttf);
+    font-weight : 900;
+}
+@font-face {
+    font-family:bpg_extrasquare_mtavruli_2009;
+    src: url(../../public/css/fonts/bpg_extrasquare_mtavruli_2009.ttf);
+    font-weight : 900;
+}
+@font-face {
+	font-family:'BPG CAPS';
+	src:url('../css/fonts/bpg-web-002-caps-webfont.eot');
+	src:url('../css/fonts/bpg-web-002-caps-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../css/fonts/bpg-web-002-caps-webfont.woff2') format('woff2'), 
+	url('../css/fonts/bpg-web-002-caps-webfont.woff') format('woff'),
+	url('../css/fonts/bpg-web-002-caps-webfont.ttf') format('truetype'),
+	url('../css/fonts/bpg-web-002-caps-webfont.svg#bpg_web_002_capsregular') format('svg'); }
